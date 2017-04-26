@@ -2,11 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.crypto.sse</groupId>
-  <artifactId>Clusion</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-    <name>Clusion</name>
-    <url>https://github.com/orochi89/Clusion</url>
   <build>
     <plugins>
       <plugin>
@@ -129,4 +126,7 @@
       <version>3.15-beta1</version>
     </dependency>
   </dependencies>
+  <artifactId>EncryptedDropbox</artifactId>
+  <name>EncyrptedDropbox</name>
+  <url>https://github.com/senecameeks/EncryptedDrobox</url>
 </project>

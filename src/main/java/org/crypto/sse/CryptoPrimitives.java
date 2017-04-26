@@ -21,7 +21,7 @@
 // tools for bytes manipulation and some variations of hash functions to be user
 //***********************************************************************************************//
 
-package org.crypto.sse.EncryptedDropbox;
+package org.crypto.sse;
 
 import org.bouncycastle.crypto.digests.SHA256Digest;
 import org.bouncycastle.crypto.digests.SHA512Digest;

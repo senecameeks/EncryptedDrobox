@@ -1,4 +1,4 @@
-package org.crypto.sse.EncryptedDropbox;
+package org.crypto.sse;
 
 /**
  * Hello world!
